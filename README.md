@@ -30,7 +30,13 @@ reduction_percentage = 20
 compress(input_path, output_dir, output_filename, reduction_percentage)
 ```
 
+## Input
 ![image](https://github.com/KardelRuveyda/compress-ebook-kindle/assets/33912144/1e184ca6-b611-4e79-b0ed-6a29f53202ec)
+
+## Output
+
+![image](https://github.com/KardelRuveyda/compress-ebook-kindle/assets/33912144/f0809782-90b3-4926-ac35-cbc926cf7455)
+
 
 ### Notes
 
