@@ -1,4 +1,4 @@
-# Colab Compression Script
+# Compress Ebook For Kindle
 
 ![image](https://github.com/KardelRuveyda/compress-ebook-kindle/assets/33912144/729ae041-e0b1-45ae-b917-603f67e1711d)
 
